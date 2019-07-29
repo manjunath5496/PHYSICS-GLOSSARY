@@ -149,7 +149,15 @@
                                    
 </ul>
 
-
+<h2><a href="https://en.wikipedia.org/wiki/Michael_Faraday" target="_blank">Michael Faraday</a></h2>
+<p><strong>Books:</strong></p>
+<ul>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(9).pdf" style="text-decoration:none;">Experimental Researches in Electricity </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(10).pdf" style="text-decoration:none;">The Liquefaction of Gases</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(11).pdf" style="text-decoration:none;">The Chemical History of a Candle</a></b></li>
+  
+                                   
+</ul>
 
 
 
