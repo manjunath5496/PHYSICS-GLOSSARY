@@ -139,7 +139,15 @@
     
 </ul>
 
-
+<h2><a href="https://en.wikipedia.org/wiki/Niels_Bohr" target="_blank">Niels Bohr</a></h2>
+<p><strong>Books:</strong></p>
+<ul>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(35).pdf" style="text-decoration:none;">On the Quantum Theory of Line-Spectra </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(36).pdf" style="text-decoration:none;">Atomic Physics and Human Knowledge</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(37).pdf" style="text-decoration:none;">The Theory of Spectra and Atomic Constitution</a></b></li>
+  
+                                   
+</ul>
 
 
 
