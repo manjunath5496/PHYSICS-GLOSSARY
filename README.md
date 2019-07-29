@@ -114,3 +114,23 @@
 <h3>The 12 Greatest Physicists in History&nbsp;</h3>
 <hr>
 <h2><a href="https://en.wikipedia.org/wiki/Isaac_Newton" target="_blank">Isaac Newton</a></h2>
+
+<ul>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(23).pdf" style="text-decoration:none;">Representations on the Subject of Money </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(24).pdf" style="text-decoration:none;">Isaac Newton: Philosophical Writings</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(25).pdf" style="text-decoration:none;">A letter to the Royal Society presenting A new theory of light and colours</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(26).pdf" style="text-decoration:none;">Opticks: or, A Treatise of the Reflexions, Refractions, Inflexions and Colours of Light  </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(27).pdf" style="text-decoration:none;">Philosophiæ Naturalis Principia Mathematica</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(28).pdf" style="text-decoration:none;">Sir Isaac Newton's Daniel and the Apocalypse</a></b></li>  
+    
+</ul>
+
+
+
+
+
+
+
+
+
