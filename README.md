@@ -170,4 +170,12 @@ Sciences </a></b></li>
                                    
 </ul>
 
-
+<h2><a href="https://en.wikipedia.org/wiki/Richard_Feynman" target="_blank">Richard Feynman</a></h2>
+<p><strong>Books:</strong></p>
+<ul>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(3).pdf" style="text-decoration:none;">Six Not-So-Easy Pieces </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(4).pdf" style="text-decoration:none;">The Pleasure of Finding Things Out: The Best Short Works of Richard Feynman</a></b></li>
+                            
+  
+                                   
+</ul>
