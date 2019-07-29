@@ -256,5 +256,18 @@ of World War II </a></b></li>
 </ul>
 
 
+<h2>Lectures: </h2>
 
+<ul>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(42).pdf" style="text-decoration:none;">Niels Bohr - Nobel Lecture: The structure of the atom </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(43).pdf" style="text-decoration:none;">Paul Dirac - Nobel Lecture: Theory of electrons and positrons</a></b></li>
+                            
+<li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(44).pdf" style="text-decoration:none;"> Albert Einstein - Lecture delivered to the Nordic Assembly of Naturalists at Gothenburg: Fundamental ideas and problems of the theory of relativity  </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(45).pdf" style="text-decoration:none;">Werner Heisenberg - Nobel Lecture: The development of quantum mechanics</a></b></li>
+                            
+<li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(46).pdf" style="text-decoration:none;"> Erwin Schrödinger - Nobel Lecture: The fundamental idea of wave mechanics  </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(47).pdf" style="text-decoration:none;">Dr. Richard Feynman Nobel Laureate!</a></b></li>
+                            
+<li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(48).pdf" style="text-decoration:none;">Richard P. Feynman - Nobel Lecture: The Development of the Space-Time View of Quantum Electrodynamics</a></b></li>                                   
+</ul>
 
