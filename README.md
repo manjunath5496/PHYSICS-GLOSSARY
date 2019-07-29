@@ -202,3 +202,15 @@ Sciences </a></b></li>
                                    
 </ul>
 
+<h2><a href="https://en.wikipedia.org/wiki/James_Clerk_Maxwell" target="_blank">James Clerk Maxwell</a></h2>
+<p><strong>Books:</strong></p>
+<ul>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(31).pdf" style="text-decoration:none;"> Matter and Motion  </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(32).pdf" style="text-decoration:none;">Five of Maxwell's Papers </a></b></li>
+                            
+<li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(33).pdf" style="text-decoration:none;">A Dynamical Theory of the Electromagnetic Field  </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(34).pdf" style="text-decoration:none;">An Elementary Treatise on Electricity </a></b></li>
+                            
+
+                                   
+</ul>
