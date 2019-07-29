@@ -159,5 +159,15 @@
                                    
 </ul>
 
+<h2><a href="https://en.wikipedia.org/wiki/Galileo_Galilei" target="_blank">Galileo Galilei</a></h2>
+<p><strong>Books:</strong></p>
+<ul>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(20).pdf" style="text-decoration:none;">Dialogues Concerning Two New
+Sciences </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(21).pdf" style="text-decoration:none;">The Assayer</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(22).pdf" style="text-decoration:none;">Sidereus Nuncius</a></b></li>
+  
+                                   
+</ul>
 
 
