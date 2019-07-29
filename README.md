@@ -112,5 +112,5 @@
 </ul>
 </br>
 <h3>The 12 Greatest Physicists in History&nbsp;</h3>
-
-
+<hr>
+<h2><a href="https://en.wikipedia.org/wiki/Isaac_Newton" target="_blank">Isaac Newton</a></h2>
