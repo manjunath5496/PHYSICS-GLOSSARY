@@ -228,3 +228,15 @@ of World War II </a></b></li>
 
                                    
 </ul>
+
+<h2><a href="https://en.wikipedia.org/wiki/Johannes_Kepler" target="_blank">Johannes Kepler</a></h2>
+<p><strong>Books:</strong></p>
+<ul>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(29).pdf" style="text-decoration:none;"> Harmonies Of The World  </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(30).pdf" style="text-decoration:none;">Optics</a></b></li>
+                            
+
+                            
+
+                                   
+</ul>
