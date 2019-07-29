@@ -179,3 +179,15 @@ Sciences </a></b></li>
   
                                    
 </ul>
+
+
+<h2><a href="https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger" target="_blank">Erwin Schrödinger</a></h2>
+<p><strong>Books:</strong></p>
+<ul>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(12).pdf" style="text-decoration:none;">Space-time structure </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(13).pdf" style="text-decoration:none;">Science And The Human Temperament </a></b></li>
+                            
+<li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(14).pdf" style="text-decoration:none;">What is Life?: With Mind and Matter and Autobiographical Sketches (Canto Classics)</a></b></li>
+                      
+                                   
+</ul>
