@@ -191,3 +191,14 @@ Sciences </a></b></li>
                       
                                    
 </ul>
+
+<h2><a href="https://en.wikipedia.org/wiki/Ernest_Rutherford" target="_blank">Ernest Rutherford</a></h2>
+<p><strong>Books:</strong></p>
+<ul>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(1).pdf" style="text-decoration:none;">Radioactive Transformations  </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(2).pdf" style="text-decoration:none;">A Selected Bibliography of Publications by, and about, Lord Ernest Rutherford of Nelson </a></b></li>
+                            
+
+                                   
+</ul>
+
