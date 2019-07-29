@@ -114,7 +114,7 @@
 <h3>The 12 Greatest Physicists in History&nbsp;</h3>
 <hr>
 <h2><a href="https://en.wikipedia.org/wiki/Isaac_Newton" target="_blank">Isaac Newton</a></h2>
-
+<p><strong>Books:</strong></p>
 <ul>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(23).pdf" style="text-decoration:none;">Representations on the Subject of Money </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(24).pdf" style="text-decoration:none;">Isaac Newton: Philosophical Writings</a></b></li>
