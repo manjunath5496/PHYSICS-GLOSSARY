@@ -240,3 +240,21 @@ of World War II </a></b></li>
 
                                    
 </ul>
+
+
+<h2><a href="https://en.wikipedia.org/wiki/Paul_Dirac" target="_blank">Paul Dirac</a></h2>
+<p><strong>Books:</strong></p>
+<ul>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(5).pdf" style="text-decoration:none;"> The Principles of Quantum Mechanics </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(6).pdf" style="text-decoration:none;">General Theory of Relativity</a></b></li>
+                            
+<li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(7).pdf" style="text-decoration:none;"> Quantum Mechanics: Paul Dirac's handwritten notes for his PhD  </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(8).pdf" style="text-decoration:none;">Lectures on Quantum Mechanics - P. Dirac (1964)</a></b></li>
+                            
+
+                                   
+</ul>
+
+
+
+
