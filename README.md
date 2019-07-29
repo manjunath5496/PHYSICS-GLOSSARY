@@ -214,3 +214,17 @@ Sciences </a></b></li>
 
                                    
 </ul>
+
+<h2><a href="https://en.wikipedia.org/wiki/Werner_Heisenberg" target="_blank">Werner Heisenberg</a></h2>
+<p><strong>Books:</strong></p>
+<ul>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(38).pdf" style="text-decoration:none;"> The Physical Principles Of The Quantum Theory  </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(39).pdf" style="text-decoration:none;">Farm Hall and the German Atomic Project
+of World War II </a></b></li>
+                            
+<li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(40).pdf" style="text-decoration:none;">Physics and Philosophy: The Revolution in Modern Science  </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/PHYSICS-GLOSSARY/blob/master/pg(41).pdf" style="text-decoration:none;">On Modern Physics </a></b></li>
+                            
+
+                                   
+</ul>
