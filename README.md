@@ -99,8 +99,8 @@
 <li><strong>Steady state theory:&nbsp;</strong>The theory which states that the universe had no beginning but constantly generates new matter as it expands, keeping the same&nbsp;<a href="https://en.wikipedia.org/wiki/Density" target="_blank" rel="nofollow noopener">density</a>.</li>
 <li><strong>Uncertainty principle:</strong>&nbsp;The principle, formulated by Heisenberg, that one can never be exactly sure of both the position and the velocity of a particle; the more accurately one knows the one, the less accurately one can know the other.</li>
 </ul>
-<blockquote><em>&Delta;x &Delta;p &ge; h /2&pi;</em></blockquote>
-<blockquote><em>&Delta;E &Delta;t &ge; h /2&pi;</em></blockquote>
+<blockquote><em>&Delta;x &Delta;p &ge; h /4&pi;</em></blockquote>
+<blockquote><em>&Delta;E &Delta;t &ge; h /4&pi;</em></blockquote>
 <ul>
 <li><strong>Virtual particle:</strong>&nbsp;In quantum mechanics, a particle that briefly dart in and out of the vacuum but can never be directly detected, but whose existence does have measurable effects. They violate known conservation laws but only for a short period of time, via the uncertainty principle.</li>
 <li><strong>Wave / particle duality:</strong>&nbsp;The concept in quantum mechanics that there is no distinction between waves and particles; particles may sometimes behave like waves, and waves like particles.</li>
